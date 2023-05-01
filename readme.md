@@ -1,4 +1,4 @@
-### Jogo da forca em Python
+# Jogo da forca em Python
 
 Esse programa em python é um jogo da forca no terminal.
 Ele possui duas diferentes versões, uma apenas utilizando '-' para representar as chances do usuário e outra representando de forma mais visual.
