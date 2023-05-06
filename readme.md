@@ -14,6 +14,7 @@ Versão 2
 ![](./Img/Versao2.png)
 
 Versão 3
+
 ![](./Img/versao3.png)
 ## Aprendizado
 
